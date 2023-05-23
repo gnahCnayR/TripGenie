@@ -1,5 +1,6 @@
 # TripGenie
 ![Title image](/tripgenieimages/tripgenie1.jpg "image")
+
 A revolutionary way to travel.
 
 ## Overview
